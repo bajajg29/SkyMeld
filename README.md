@@ -1,5 +1,16 @@
-SkyMeld: A flutter weather application 
-Features: Gives us present weather condition, the sunset and sunrise time, minimum and maximum temperature .
+# weather_application
 
-Description: When you open it for the first time then it asks you for accessing your location(I've done this with the help of geolocator package). After that the location is sent to the weather package which receives the longitude and latitude value based on that it checks the weather condition of that location and gives the weather code. On the basis of weather code the weather is being checked . what's the type of weather is at the present time like it light raining, heavy raining, clear sky, bright sun, thunderstorm.
-After collecting all this info it gives the user the present weather condition. and that weather package also used for finding sunset and sunrise time, max and min temp. 
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
